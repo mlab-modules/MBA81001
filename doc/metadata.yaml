@@ -5,16 +5,18 @@ github_url: https://github.com/mlab-modules/MBA81001
 homepage: false
 images:
 - doc/img/MBA81001A_small.jpg
-- doc/src/OBR3_s.jpg
-- doc/src/OBR1.jpg
 - doc/src/OBR3.jpg
-- doc/src/OBR2.jpg
+- doc/src/OBR3_s.jpg
 - doc/src/MBA810S_Internal.jpg
+- doc/src/OBR1.jpg
+- doc/src/OBR2.jpg
+- doc/html/Pictures/image003.jpg
 - doc/html/Pictures/image004.jpg
 - doc/html/Pictures/image001.jpg
-- doc/html/Pictures/image003.jpg
 - doc/img/MBA81001A_QRcode.png
 - doc/html/Pictures/image002.gif
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: MBA81001
