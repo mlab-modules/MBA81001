@@ -1,4 +1,5 @@
-description: null
+description: ' Module of 5W audio amplifier with MBA810 (TBA810). The chip is old
+  and it was used because we had lots of them.'
 github_branch: MBA81001A
 github_repo: MBA81001
 github_url: https://github.com/mlab-modules/MBA81001
